@@ -3,8 +3,11 @@ Hello👋, Dixant Bikal Sapkota here!
 </h1>
 
 <h3 align = center>
-I am an $Electrical$ Engineer with a passion for power system, machine learning, control systems and system reliability.
+I am an $Electrical$ Engineer with a passion for power systems, machine learning, control systems and system reliability.
 </h3>
+<h4 align = center>
+    Reach me at: $dixantbs7@gmail.com$
+</h4>
 <h4 align = center>
 Connect with me:
 </h4>
